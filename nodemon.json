@@ -5,6 +5,6 @@
   "ignore": [
     "src/**/*.spec.ts"
   ],
-  "exec": "yarn start:dev",
+  "exec": "yarn lint && yarn start:dev",
   "ext": "ts"
 }
